@@ -2,7 +2,7 @@
 A custom marquee tag using angular.
 
 ## Demo
-[Marquee](http://htmlpreview.github.io/?https://github.com/dimpu/ng-marquee/example/)  
+[Marquee](http://htmlpreview.github.io/?https://github.com/dimpu/ng-marquee/blob/master/example/index.html)  
 
 ## Requirements
 * [jQuery](http://jquery.com/)
