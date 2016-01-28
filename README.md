@@ -26,7 +26,7 @@ as element:
 HTML
 ```HTML
 <ng-marquee
-  ng-options="{}">
+  mq-options="{}">
 ...
 </ng-marquee>
 ```
@@ -37,7 +37,7 @@ HTML
 
 ### Example
 ```HTML
-<ng-marquee ng-options="{duration: 5000}">
+<ng-marquee mq-options="{duration: 5000}">
   This is a marquee message.
 </ng-marquee>
 ```
