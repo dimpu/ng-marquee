@@ -5,8 +5,6 @@ A custom marquee tag using angular.
 [Marquee](http://htmlpreview.github.io/?https://github.com/dimpu/ng-marquee/blob/master/example/index.html)  
 
 ## Requirements
-* [jQuery](http://jquery.com/)
-* [jQuery.Marquee](https://github.com/aamirafridi/jQuery.Marquee)  
 * [AngularJS](https://angularjs.org/)  
 
 ## Usage
@@ -25,8 +23,7 @@ This directive executes at priority level 0.
 as element:
 HTML
 ```HTML
-<ng-marquee
-  mq-options="{}">
+<ng-marquee>
 ...
 </ng-marquee>
 ```
@@ -37,8 +34,7 @@ HTML
 
 ### Example
 ```HTML
-<ng-marquee mq-options="{duration: 5000}">
+<ng-marquee>
   This is a marquee message.
 </ng-marquee>
 ```
-For all available list of options check https://github.com/aamirafridi/jQuery.Marquee
