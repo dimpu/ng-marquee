@@ -15,9 +15,5 @@
   "bugs": {
     "url": "https://github.com/dimpu/ng-marquee/issues"
   },
-  "homepage": "https://github.com/dimpu/ng-marquee#readme",
-  "dependencies": {
-    "jquery": "^2.2.0",
-    "jquery.marquee": "^1.3.2"
-  }
+  "homepage": "https://github.com/dimpu/ng-marquee#readme"
 }
